@@ -32,9 +32,12 @@ Tracking changes is the main advantage of version control system.Version control
 When you need to troubleshoot an issue, you can easily access and compare the last working file with the faulty file, and decrease the time spent identifying the cause of an issue.
 You can restore older versions of a file (or even the whole project) effectively through the use of version control systems. You can simply undo every changes you have done in just a few clicks.
 
-Collaboration:
-As you know a software development project consists of many developers and managers. Programmers and developers can easily collaborate on a project through the version control system. Everyone can access the database simultaneously to view previous versions. It will be easier for them to work simultaneously as a team regardless of their location. They can also review and get help from others. this collaboration will make the end product more efficient.
 Backup:
+
+Collaboration:
+As you know a software development project consists of many developers and managers. Programmers and developers can easily collaborate on a project through the version control system. Everyone can access the database simultaneously to view previous versions. It will be easier for them to work simultaneously as a team regardless of their location.Platforms like GitLab or GitHub is used for this.Programmers can also review and get help from others.
+
+
 Analyze
 
 
