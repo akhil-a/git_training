@@ -23,4 +23,12 @@ Software development includes the continuous process of modifying programs. So y
 
 With version control system. You will not encounter the troubles and struggles i explained few moments ago.
 
+Advantages of Version Control System:
+
+I think now you have a small idea about what version control system is. Now lets talk about advantages of having version control system. Infact Version control system is a great friend of developer.Heres why:
+Collaboration:
+Storing Version/ tracking changes:
+Backup:
+Analyze
+
 
