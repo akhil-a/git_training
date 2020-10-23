@@ -1,0 +1,17 @@
+Introduction:
+
+Hello, Welcome to the video. My Name is Akhil and in this training i am going to walk you through a tool called Git which is an essential component in software development field.
+This is a quick introduction about what are the topics we are going to cover in this training.
+
+First of all we will learn about version control system. What is a version control system? Why do we need VCS ? what are the advantages of VCS? What happens if we dont have a version control system ? Then you will know the importance of having Version control in your developing environment.becasue you cant learn git without knowing what is version control system.
+
+Thats the basic part. Then we move to the core content of the training.
+
+Then we learn about Git which is the most popular VCS now available. And GitLab which is a platform used to manage git. On the Git part, we are going to learn what is a repository? What are branches?what are tags? What is a commit? How do you version your files?how do you share it with other? What are git commands? What is merging ?
+
+Ok ok at this point, youll be thinking ohh this is going to be a tough topic im not going to understand any he is saying. But truth is, its NOT! Git is so easy, even if you dont have an experience in programming,you will be able to understand what im about to explain .Dont worry you dont need to write even one line code code In this training.
+I will also add demo videos in between the training so that you can try out the things with me. The PPT im using  in this training will be shared and if you have any doubts, you can contact me on acsiamail. Okey I hope you get an idea about what we are going to cover. So without further adieu, lets start 
+
+
+
+
