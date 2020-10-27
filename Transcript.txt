@@ -38,4 +38,5 @@ Collaboration:
 As you know a software development project consists of many developers and managers. Programmers and developers can easily collaborate on a project through the version control system. Everyone can access the database simultaneously to view previous versions. It will be easier for them to work simultaneously as a team regardless of their location.That means multipile people can work on a same file at same time.Platforms like GitLab or GitHub is used for this.Programmers can also review and get help from others.
 
 
-
+Installing Git in Ubuntu/Linux:
+Installing git in Ubunut or linux is a very easy process.Open the terminal. First lets update the package information using the command sudo apt-get update. Here i am not using sudo because im running these commands as a root user. Once it is done, install git using the command sudo apt-get install git-core. then type yes. and thats it. Git is installed on to your system. To verify if it is installed or not, just run the command git --version. It will show version of git currenlty installed on your machine. After installing git, configure your username and email.It is a good idea to setup your user for git now, to prevent any commit errors later
