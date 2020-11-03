@@ -34,6 +34,7 @@ You can restore older versions of a file (or even the whole project) effectively
 
 Backup:
 Snapshots of all versions are properly documented and stored correctly.When you are working in a collaborative project. even if your local project gets currepted or get deleted, you will always have backup in the central server.and even if the central server goes down, we can easilt retrieve everything from the last backup.
+
 Collaboration:
 As you know a software development project consists of many developers and managers. Programmers and developers can easily collaborate on a project through the version control system. Everyone can access the database simultaneously to view previous versions. It will be easier for them to work simultaneously as a team regardless of their location.That means multipile people can work on a same file at same time.Platforms like GitLab or GitHub is used for this.Programmers can also review and get help from others.
 
