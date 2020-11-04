@@ -38,6 +38,8 @@ Snapshots of all versions are properly documented and stored correctly.When you 
 Collaboration:
 As you know a software development project consists of many developers and managers. Programmers and developers can easily collaborate on a project through the version control system. Everyone can access the database simultaneously to view previous versions. It will be easier for them to work simultaneously as a team regardless of their location.That means multipile people can work on a same file at same time.Platforms like GitLab or GitHub is used for this.Programmers can also review and get help from others.
 
+Git 
+You have an idea about Version control. Lets get into the main part of the training. That is a tool called Git. Git is a free and opensource distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is the most populat version control tool available right now. Companies like Google, android, facebook, microsoft,netflix and more use Git for managing their source code.Git has every feature and advantages i mentioned in the previous videos. Now lets work with Git. First we need to install git. I will describe installation steps shortly. One thing you can do is, you can install it with me. Follow the steps i do .After that i will demonstrate some git and gitlab operations. I recommend you to follow with me. Pause the video whenever you want. If you do the things with me during the training, youll get more understanding about what im saying. Lets start
 
 Installing Git in Ubuntu/Linux:
 
